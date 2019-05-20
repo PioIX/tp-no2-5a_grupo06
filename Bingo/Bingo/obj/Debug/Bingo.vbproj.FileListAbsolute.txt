@@ -1,0 +1,11 @@
+E:\Bingo\Bingo\bin\Debug\Bingo.exe.config
+E:\Bingo\Bingo\bin\Debug\Bingo.exe
+E:\Bingo\Bingo\bin\Debug\Bingo.pdb
+E:\Bingo\Bingo\bin\Debug\Bingo.xml
+E:\Bingo\Bingo\obj\Debug\Bingo.vbprojResolveAssemblyReference.cache
+E:\Bingo\Bingo\obj\Debug\Bingo.Form1.resources
+E:\Bingo\Bingo\obj\Debug\Bingo.Resources.resources
+E:\Bingo\Bingo\obj\Debug\Bingo.vbproj.GenerateResource.Cache
+E:\Bingo\Bingo\obj\Debug\Bingo.exe
+E:\Bingo\Bingo\obj\Debug\Bingo.xml
+E:\Bingo\Bingo\obj\Debug\Bingo.pdb
