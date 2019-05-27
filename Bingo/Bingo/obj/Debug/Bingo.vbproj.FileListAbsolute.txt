@@ -9,3 +9,7 @@ E:\Bingo\Bingo\obj\Debug\Bingo.vbproj.GenerateResource.Cache
 E:\Bingo\Bingo\obj\Debug\Bingo.exe
 E:\Bingo\Bingo\obj\Debug\Bingo.xml
 E:\Bingo\Bingo\obj\Debug\Bingo.pdb
+C:\Users\Alumno\Source\Repos\PioIX\tp-no2-5a_grupo06\Bingo\Bingo\bin\Debug\Bingo.exe.config
+C:\Users\Alumno\Source\Repos\PioIX\tp-no2-5a_grupo06\Bingo\Bingo\obj\Debug\Bingo.exe
+C:\Users\Alumno\Source\Repos\PioIX\tp-no2-5a_grupo06\Bingo\Bingo\obj\Debug\Bingo.xml
+C:\Users\Alumno\Source\Repos\PioIX\tp-no2-5a_grupo06\Bingo\Bingo\obj\Debug\Bingo.pdb
