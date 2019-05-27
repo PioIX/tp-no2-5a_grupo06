@@ -24,6 +24,8 @@
     Private Sub Btn_Reinicio_Click(sender As Object, e As EventArgs) Handles Btn_Reinicio.Click
 
     End Sub
+    'pepepepepe
+    Private Sub Label52_Click(sender As Object, e As EventArgs) Handles Label52.Click
 
-
+    End Sub
 End Class
