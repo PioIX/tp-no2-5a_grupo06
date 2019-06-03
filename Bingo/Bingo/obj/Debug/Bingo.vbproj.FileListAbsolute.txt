@@ -13,3 +13,10 @@ C:\Users\Alumno\Source\Repos\PioIX\tp-no2-5a_grupo06\Bingo\Bingo\bin\Debug\Bingo
 C:\Users\Alumno\Source\Repos\PioIX\tp-no2-5a_grupo06\Bingo\Bingo\obj\Debug\Bingo.exe
 C:\Users\Alumno\Source\Repos\PioIX\tp-no2-5a_grupo06\Bingo\Bingo\obj\Debug\Bingo.xml
 C:\Users\Alumno\Source\Repos\PioIX\tp-no2-5a_grupo06\Bingo\Bingo\obj\Debug\Bingo.pdb
+C:\Users\Alumno\Source\Repos\PioIX\tp-no2-5a_grupo06\Bingo\Bingo\bin\Debug\Bingo.exe
+C:\Users\Alumno\Source\Repos\PioIX\tp-no2-5a_grupo06\Bingo\Bingo\bin\Debug\Bingo.pdb
+C:\Users\Alumno\Source\Repos\PioIX\tp-no2-5a_grupo06\Bingo\Bingo\bin\Debug\Bingo.xml
+C:\Users\Alumno\Source\Repos\PioIX\tp-no2-5a_grupo06\Bingo\Bingo\obj\Debug\Bingo.vbprojResolveAssemblyReference.cache
+C:\Users\Alumno\Source\Repos\PioIX\tp-no2-5a_grupo06\Bingo\Bingo\obj\Debug\Bingo.Form1.resources
+C:\Users\Alumno\Source\Repos\PioIX\tp-no2-5a_grupo06\Bingo\Bingo\obj\Debug\Bingo.Resources.resources
+C:\Users\Alumno\Source\Repos\PioIX\tp-no2-5a_grupo06\Bingo\Bingo\obj\Debug\Bingo.vbproj.GenerateResource.Cache
