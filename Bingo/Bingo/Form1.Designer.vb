@@ -126,7 +126,7 @@ Partial Class Form1
         '
         'Btn_Minimizar
         '
-        Me.Btn_Minimizar.BackColor = System.Drawing.Color.Orange
+        Me.Btn_Minimizar.BackColor = System.Drawing.Color.Gold
         Me.Btn_Minimizar.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Btn_Minimizar.ForeColor = System.Drawing.SystemColors.ActiveCaptionText
         Me.Btn_Minimizar.Location = New System.Drawing.Point(596, 5)

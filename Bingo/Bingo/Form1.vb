@@ -9,7 +9,6 @@
     Public screenWidth As Integer = Screen.PrimaryScreen.Bounds.Width
     Public screenHeight As Integer = Screen.PrimaryScreen.Bounds.Height
 
-
     Private Sub Limpieza(LabelNumero As Byte)
         For i = 0 To 89
             If números(i) = LabelNumero Then
@@ -1000,15 +999,6 @@
 
     Private Sub Btn_Randomize_MouseLeave(sender As Object, e As EventArgs) Handles Btn_Randomize.MouseLeave
         Lbl_Ayuda.Text = "Al hacer click en los números de abajo se los marcara, si pasa el mouse por encima de uno de los botones inferiores se le explicará su funcionamiento" + vbCrLf + "y si hace click sobre este texto la ayuda desaparecerá."
-
-    End Sub
-
-    Private Sub Btn_Orden_MouseHover(sender As Object, e As EventArgs)
-        Lbl_Ayuda.Text = "Al hacer click se mostrará en orden los numeros elegidos y si hace click de nuevo volverá a como estaba antes la pantalla."
-    End Sub
-
-    Private Sub Btn_Orden_MouseLeave(sender As Object, e As EventArgs)
-        Lbl_Ayuda.Text = "Al hacer click en los números de abajo se los marcara, si pasa el mouse por encima de uno de los botones inferiores se le explicará su funcionamiento" + vbCrLf + "y si hace click sobre este texto la ayuda desaparecera."
 
     End Sub
 
