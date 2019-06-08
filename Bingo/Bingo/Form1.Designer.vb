@@ -24,7 +24,6 @@ Partial Class Form1
     Private Sub InitializeComponent()
         Me.Btn_Minimizar = New System.Windows.Forms.Button()
         Me.Pic_Border = New System.Windows.Forms.PictureBox()
-        Me.Btn_Reinicio = New System.Windows.Forms.Button()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         Me.Btn_Cerrar = New System.Windows.Forms.Button()
         Me.Label1 = New System.Windows.Forms.Label()
@@ -117,6 +116,10 @@ Partial Class Form1
         Me.Label88 = New System.Windows.Forms.Label()
         Me.Label89 = New System.Windows.Forms.Label()
         Me.Label90 = New System.Windows.Forms.Label()
+        Me.Btn_Randomize = New System.Windows.Forms.Button()
+        Me.Btn_Orden = New System.Windows.Forms.Button()
+        Me.Btn_LimpiezaManual = New System.Windows.Forms.Button()
+        Me.Btn_Reinicio = New System.Windows.Forms.Button()
         CType(Me.Pic_Border, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
@@ -126,7 +129,7 @@ Partial Class Form1
         Me.Btn_Minimizar.BackColor = System.Drawing.Color.Orange
         Me.Btn_Minimizar.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Btn_Minimizar.ForeColor = System.Drawing.SystemColors.ActiveCaptionText
-        Me.Btn_Minimizar.Location = New System.Drawing.Point(592, 5)
+        Me.Btn_Minimizar.Location = New System.Drawing.Point(596, 5)
         Me.Btn_Minimizar.Name = "Btn_Minimizar"
         Me.Btn_Minimizar.Size = New System.Drawing.Size(50, 50)
         Me.Btn_Minimizar.TabIndex = 58
@@ -142,18 +145,6 @@ Partial Class Form1
         Me.Pic_Border.TabIndex = 56
         Me.Pic_Border.TabStop = False
         '
-        'Btn_Reinicio
-        '
-        Me.Btn_Reinicio.BackColor = System.Drawing.Color.Aqua
-        Me.Btn_Reinicio.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Btn_Reinicio.ForeColor = System.Drawing.SystemColors.ActiveCaptionText
-        Me.Btn_Reinicio.Location = New System.Drawing.Point(5, 5)
-        Me.Btn_Reinicio.Name = "Btn_Reinicio"
-        Me.Btn_Reinicio.Size = New System.Drawing.Size(50, 50)
-        Me.Btn_Reinicio.TabIndex = 59
-        Me.Btn_Reinicio.Text = " "
-        Me.Btn_Reinicio.UseVisualStyleBackColor = False
-        '
         'PictureBox1
         '
         Me.PictureBox1.BackColor = System.Drawing.Color.IndianRed
@@ -168,7 +159,7 @@ Partial Class Form1
         Me.Btn_Cerrar.BackColor = System.Drawing.Color.Red
         Me.Btn_Cerrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Btn_Cerrar.ForeColor = System.Drawing.SystemColors.ActiveCaptionText
-        Me.Btn_Cerrar.Location = New System.Drawing.Point(645, 5)
+        Me.Btn_Cerrar.Location = New System.Drawing.Point(649, 5)
         Me.Btn_Cerrar.Name = "Btn_Cerrar"
         Me.Btn_Cerrar.Size = New System.Drawing.Size(50, 50)
         Me.Btn_Cerrar.TabIndex = 57
@@ -1255,6 +1246,54 @@ Partial Class Form1
         Me.Label90.TabIndex = 231
         Me.Label90.Text = "90"
         '
+        'Btn_Randomize
+        '
+        Me.Btn_Randomize.BackColor = System.Drawing.Color.FromArgb(CType(CType(165, Byte), Integer), CType(CType(70, Byte), Integer), CType(CType(70, Byte), Integer))
+        Me.Btn_Randomize.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.Btn_Randomize.ForeColor = System.Drawing.SystemColors.ActiveCaptionText
+        Me.Btn_Randomize.Location = New System.Drawing.Point(649, 294)
+        Me.Btn_Randomize.Name = "Btn_Randomize"
+        Me.Btn_Randomize.Size = New System.Drawing.Size(50, 50)
+        Me.Btn_Randomize.TabIndex = 238
+        Me.Btn_Randomize.Text = " "
+        Me.Btn_Randomize.UseVisualStyleBackColor = False
+        '
+        'Btn_Orden
+        '
+        Me.Btn_Orden.BackColor = System.Drawing.Color.FromArgb(CType(CType(165, Byte), Integer), CType(CType(60, Byte), Integer), CType(CType(60, Byte), Integer))
+        Me.Btn_Orden.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.Btn_Orden.ForeColor = System.Drawing.SystemColors.ActiveCaptionText
+        Me.Btn_Orden.Location = New System.Drawing.Point(649, 356)
+        Me.Btn_Orden.Name = "Btn_Orden"
+        Me.Btn_Orden.Size = New System.Drawing.Size(50, 50)
+        Me.Btn_Orden.TabIndex = 237
+        Me.Btn_Orden.Text = " "
+        Me.Btn_Orden.UseVisualStyleBackColor = False
+        '
+        'Btn_LimpiezaManual
+        '
+        Me.Btn_LimpiezaManual.BackColor = System.Drawing.Color.FromArgb(CType(CType(165, Byte), Integer), CType(CType(50, Byte), Integer), CType(CType(50, Byte), Integer))
+        Me.Btn_LimpiezaManual.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.Btn_LimpiezaManual.ForeColor = System.Drawing.SystemColors.ActiveCaptionText
+        Me.Btn_LimpiezaManual.Location = New System.Drawing.Point(649, 418)
+        Me.Btn_LimpiezaManual.Name = "Btn_LimpiezaManual"
+        Me.Btn_LimpiezaManual.Size = New System.Drawing.Size(50, 50)
+        Me.Btn_LimpiezaManual.TabIndex = 236
+        Me.Btn_LimpiezaManual.Text = " "
+        Me.Btn_LimpiezaManual.UseVisualStyleBackColor = False
+        '
+        'Btn_Reinicio
+        '
+        Me.Btn_Reinicio.BackColor = System.Drawing.Color.Brown
+        Me.Btn_Reinicio.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.Btn_Reinicio.ForeColor = System.Drawing.SystemColors.ActiveCaptionText
+        Me.Btn_Reinicio.Location = New System.Drawing.Point(649, 480)
+        Me.Btn_Reinicio.Name = "Btn_Reinicio"
+        Me.Btn_Reinicio.Size = New System.Drawing.Size(50, 50)
+        Me.Btn_Reinicio.TabIndex = 235
+        Me.Btn_Reinicio.Text = " "
+        Me.Btn_Reinicio.UseVisualStyleBackColor = False
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -1262,6 +1301,10 @@ Partial Class Form1
         Me.AutoSize = True
         Me.BackColor = System.Drawing.Color.LightCoral
         Me.ClientSize = New System.Drawing.Size(703, 535)
+        Me.Controls.Add(Me.Btn_Randomize)
+        Me.Controls.Add(Me.Btn_Orden)
+        Me.Controls.Add(Me.Btn_LimpiezaManual)
+        Me.Controls.Add(Me.Btn_Reinicio)
         Me.Controls.Add(Me.Label90)
         Me.Controls.Add(Me.Label89)
         Me.Controls.Add(Me.Label88)
@@ -1353,7 +1396,6 @@ Partial Class Form1
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.PictureBox1)
-        Me.Controls.Add(Me.Btn_Reinicio)
         Me.Controls.Add(Me.Btn_Minimizar)
         Me.Controls.Add(Me.Btn_Cerrar)
         Me.Controls.Add(Me.Pic_Border)
@@ -1370,7 +1412,6 @@ Partial Class Form1
 
     Friend WithEvents Btn_Minimizar As Button
     Friend WithEvents Pic_Border As PictureBox
-    Friend WithEvents Btn_Reinicio As Button
     Friend WithEvents PictureBox1 As PictureBox
     Friend WithEvents Btn_Cerrar As Button
     Friend WithEvents Label1 As Label
@@ -1463,4 +1504,8 @@ Partial Class Form1
     Friend WithEvents Label88 As Label
     Friend WithEvents Label89 As Label
     Friend WithEvents Label90 As Label
+    Friend WithEvents Btn_Randomize As Button
+    Friend WithEvents Btn_Orden As Button
+    Friend WithEvents Btn_LimpiezaManual As Button
+    Friend WithEvents Btn_Reinicio As Button
 End Class
