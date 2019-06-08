@@ -298,10 +298,14 @@
     End Sub
 
     Private Sub Label4_Click(sender As Object, e As EventArgs) Handles Label4.Click
+        Dim LabelNumero As Byte
+        LabelNumero = 4
         If CambioColor = False Then
             Label4.BackColor = Color.LightCoral
+            números(index) = LabelNumero
         Else
             Label4.BackColor = Color.IndianRed
+            Limpieza(LabelNumero)
         End If
     End Sub
 
