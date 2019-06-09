@@ -247,13 +247,384 @@
                 números(i) = Temporal
                 Btn_Randomize.Text = Temporal
                 Repite = True
+                Select Case Temporal
+                    Case 1
+                        Label1.BackColor = Color.LightCoral
+                    Case 2
+                        Label2.BackColor = Color.LightCoral
+                    Case 3
+                        Label3.BackColor = Color.LightCoral
+                    Case 4
+                        Label4.BackColor = Color.LightCoral
+                    Case 5
+                        Label5.BackColor = Color.LightCoral
+                    Case 6
+                        Label6.BackColor = Color.LightCoral
+                    Case 7
+                        Label7.BackColor = Color.LightCoral
+                    Case 8
+                        Label8.BackColor = Color.LightCoral
+                    Case 9
+                        Label9.BackColor = Color.LightCoral
+                    Case 10
+                        Label10.BackColor = Color.LightCoral
+                    Case 11
+                        Label11.BackColor = Color.LightCoral
+                    Case 12
+                        Label12.BackColor = Color.LightCoral
+                    Case 13
+                        Label13.BackColor = Color.LightCoral
+                    Case 14
+                        Label14.BackColor = Color.LightCoral
+                    Case 15
+                        Label15.BackColor = Color.LightCoral
+                    Case 16
+                        Label16.BackColor = Color.LightCoral
+                    Case 17
+                        Label17.BackColor = Color.LightCoral
+                    Case 18
+                        Label18.BackColor = Color.LightCoral
+                    Case 19
+                        Label19.BackColor = Color.LightCoral
+                    Case 20
+                        Label20.BackColor = Color.LightCoral
+                    Case 21
+                        Label21.BackColor = Color.LightCoral
+                    Case 22
+                        Label22.BackColor = Color.LightCoral
+                    Case 23
+                        Label23.BackColor = Color.LightCoral
+                    Case 24
+                        Label24.BackColor = Color.LightCoral
+                    Case 25
+                        Label25.BackColor = Color.LightCoral
+                    Case 26
+                        Label26.BackColor = Color.LightCoral
+                    Case 27
+                        Label27.BackColor = Color.LightCoral
+                    Case 28
+                        Label28.BackColor = Color.LightCoral
+                    Case 29
+                        Label29.BackColor = Color.LightCoral
+                    Case 30
+                        Label30.BackColor = Color.LightCoral
+                    Case 31
+                        Label31.BackColor = Color.LightCoral
+                    Case 32
+                        Label32.BackColor = Color.LightCoral
+                    Case 33
+                        Label33.BackColor = Color.LightCoral
+                    Case 34
+                        Label34.BackColor = Color.LightCoral
+                    Case 35
+                        Label35.BackColor = Color.LightCoral
+                    Case 36
+                        Label36.BackColor = Color.LightCoral
+                    Case 37
+                        Label37.BackColor = Color.LightCoral
+                    Case 38
+                        Label38.BackColor = Color.LightCoral
+                    Case 39
+                        Label39.BackColor = Color.LightCoral
+                    Case 40
+                        Label40.BackColor = Color.LightCoral
+                    Case 41
+                        Label41.BackColor = Color.LightCoral
+                    Case 42
+                        Label42.BackColor = Color.LightCoral
+                    Case 43
+                        Label43.BackColor = Color.LightCoral
+                    Case 44
+                        Label44.BackColor = Color.LightCoral
+                    Case 45
+                        Label45.BackColor = Color.LightCoral
+                    Case 46
+                        Label46.BackColor = Color.LightCoral
+                    Case 47
+                        Label47.BackColor = Color.LightCoral
+                    Case 48
+                        Label48.BackColor = Color.LightCoral
+                    Case 49
+                        Label49.BackColor = Color.LightCoral
+                    Case 50
+                        Label50.BackColor = Color.LightCoral
+                    Case 51
+                        Label51.BackColor = Color.LightCoral
+                    Case 52
+                        Label52.BackColor = Color.LightCoral
+                    Case 53
+                        Label53.BackColor = Color.LightCoral
+                    Case 54
+                        Label54.BackColor = Color.LightCoral
+                    Case 55
+                        Label55.BackColor = Color.LightCoral
+                    Case 56
+                        Label56.BackColor = Color.LightCoral
+                    Case 57
+                        Label57.BackColor = Color.LightCoral
+                    Case 58
+                        Label58.BackColor = Color.LightCoral
+                    Case 59
+                        Label59.BackColor = Color.LightCoral
+                    Case 60
+                        Label60.BackColor = Color.LightCoral
+                    Case 61
+                        Label61.BackColor = Color.LightCoral
+                    Case 62
+                        Label62.BackColor = Color.LightCoral
+                    Case 63
+                        Label63.BackColor = Color.LightCoral
+                    Case 64
+                        Label64.BackColor = Color.LightCoral
+                    Case 65
+                        Label65.BackColor = Color.LightCoral
+                    Case 66
+                        Label66.BackColor = Color.LightCoral
+                    Case 67
+                        Label67.BackColor = Color.LightCoral
+                    Case 68
+                        Label68.BackColor = Color.LightCoral
+                    Case 69
+                        Label69.BackColor = Color.LightCoral
+                    Case 70
+                        Label70.BackColor = Color.LightCoral
+                    Case 71
+                        Label71.BackColor = Color.LightCoral
+                    Case 72
+                        Label72.BackColor = Color.LightCoral
+                    Case 73
+                        Label73.BackColor = Color.LightCoral
+                    Case 74
+                        Label74.BackColor = Color.LightCoral
+                    Case 75
+                        Label75.BackColor = Color.LightCoral
+                    Case 76
+                        Label76.BackColor = Color.LightCoral
+                    Case 77
+                        Label77.BackColor = Color.LightCoral
+                    Case 78
+                        Label78.BackColor = Color.LightCoral
+                    Case 79
+                        Label79.BackColor = Color.LightCoral
+                    Case 80
+                        Label80.BackColor = Color.LightCoral
+                    Case 81
+                        Label81.BackColor = Color.LightCoral
+                    Case 82
+                        Label82.BackColor = Color.LightCoral
+                    Case 83
+                        Label83.BackColor = Color.LightCoral
+                    Case 84
+                        Label84.BackColor = Color.LightCoral
+                    Case 85
+                        Label85.BackColor = Color.LightCoral
+                    Case 86
+                        Label86.BackColor = Color.LightCoral
+                    Case 87
+                        Label87.BackColor = Color.LightCoral
+                    Case 88
+                        Label88.BackColor = Color.LightCoral
+                    Case 89
+                        Label89.BackColor = Color.LightCoral
+                    Case 90
+                        Label90.BackColor = Color.LightCoral
+                End Select
             Else
                 If Temporal = números(i) Then
                     Temporal = CInt(Int((90 * Rnd()) + 1))
                     i = 0
                 End If
             End If
-            i = i + 1
+            If i = 89 Then
+                index = index + 1
+                números(i) = Temporal
+                Btn_Randomize.Text = Temporal
+                Repite = True
+                Select Case Temporal
+                    Case 1
+                        Label1.BackColor = Color.LightCoral
+                    Case 2
+                        Label2.BackColor = Color.LightCoral
+                    Case 3
+                        Label3.BackColor = Color.LightCoral
+                    Case 4
+                        Label4.BackColor = Color.LightCoral
+                    Case 5
+                        Label5.BackColor = Color.LightCoral
+                    Case 6
+                        Label6.BackColor = Color.LightCoral
+                    Case 7
+                        Label7.BackColor = Color.LightCoral
+                    Case 8
+                        Label8.BackColor = Color.LightCoral
+                    Case 9
+                        Label9.BackColor = Color.LightCoral
+                    Case 10
+                        Label10.BackColor = Color.LightCoral
+                    Case 11
+                        Label11.BackColor = Color.LightCoral
+                    Case 12
+                        Label12.BackColor = Color.LightCoral
+                    Case 13
+                        Label13.BackColor = Color.LightCoral
+                    Case 14
+                        Label14.BackColor = Color.LightCoral
+                    Case 15
+                        Label15.BackColor = Color.LightCoral
+                    Case 16
+                        Label16.BackColor = Color.LightCoral
+                    Case 17
+                        Label17.BackColor = Color.LightCoral
+                    Case 18
+                        Label18.BackColor = Color.LightCoral
+                    Case 19
+                        Label19.BackColor = Color.LightCoral
+                    Case 20
+                        Label20.BackColor = Color.LightCoral
+                    Case 21
+                        Label21.BackColor = Color.LightCoral
+                    Case 22
+                        Label22.BackColor = Color.LightCoral
+                    Case 23
+                        Label23.BackColor = Color.LightCoral
+                    Case 24
+                        Label24.BackColor = Color.LightCoral
+                    Case 25
+                        Label25.BackColor = Color.LightCoral
+                    Case 26
+                        Label26.BackColor = Color.LightCoral
+                    Case 27
+                        Label27.BackColor = Color.LightCoral
+                    Case 28
+                        Label28.BackColor = Color.LightCoral
+                    Case 29
+                        Label29.BackColor = Color.LightCoral
+                    Case 30
+                        Label30.BackColor = Color.LightCoral
+                    Case 31
+                        Label31.BackColor = Color.LightCoral
+                    Case 32
+                        Label32.BackColor = Color.LightCoral
+                    Case 33
+                        Label33.BackColor = Color.LightCoral
+                    Case 34
+                        Label34.BackColor = Color.LightCoral
+                    Case 35
+                        Label35.BackColor = Color.LightCoral
+                    Case 36
+                        Label36.BackColor = Color.LightCoral
+                    Case 37
+                        Label37.BackColor = Color.LightCoral
+                    Case 38
+                        Label38.BackColor = Color.LightCoral
+                    Case 39
+                        Label39.BackColor = Color.LightCoral
+                    Case 40
+                        Label40.BackColor = Color.LightCoral
+                    Case 41
+                        Label41.BackColor = Color.LightCoral
+                    Case 42
+                        Label42.BackColor = Color.LightCoral
+                    Case 43
+                        Label43.BackColor = Color.LightCoral
+                    Case 44
+                        Label44.BackColor = Color.LightCoral
+                    Case 45
+                        Label45.BackColor = Color.LightCoral
+                    Case 46
+                        Label46.BackColor = Color.LightCoral
+                    Case 47
+                        Label47.BackColor = Color.LightCoral
+                    Case 48
+                        Label48.BackColor = Color.LightCoral
+                    Case 49
+                        Label49.BackColor = Color.LightCoral
+                    Case 50
+                        Label50.BackColor = Color.LightCoral
+                    Case 51
+                        Label51.BackColor = Color.LightCoral
+                    Case 52
+                        Label52.BackColor = Color.LightCoral
+                    Case 53
+                        Label53.BackColor = Color.LightCoral
+                    Case 54
+                        Label54.BackColor = Color.LightCoral
+                    Case 55
+                        Label55.BackColor = Color.LightCoral
+                    Case 56
+                        Label56.BackColor = Color.LightCoral
+                    Case 57
+                        Label57.BackColor = Color.LightCoral
+                    Case 58
+                        Label58.BackColor = Color.LightCoral
+                    Case 59
+                        Label59.BackColor = Color.LightCoral
+                    Case 60
+                        Label60.BackColor = Color.LightCoral
+                    Case 61
+                        Label61.BackColor = Color.LightCoral
+                    Case 62
+                        Label62.BackColor = Color.LightCoral
+                    Case 63
+                        Label63.BackColor = Color.LightCoral
+                    Case 64
+                        Label64.BackColor = Color.LightCoral
+                    Case 65
+                        Label65.BackColor = Color.LightCoral
+                    Case 66
+                        Label66.BackColor = Color.LightCoral
+                    Case 67
+                        Label67.BackColor = Color.LightCoral
+                    Case 68
+                        Label68.BackColor = Color.LightCoral
+                    Case 69
+                        Label69.BackColor = Color.LightCoral
+                    Case 70
+                        Label70.BackColor = Color.LightCoral
+                    Case 71
+                        Label71.BackColor = Color.LightCoral
+                    Case 72
+                        Label72.BackColor = Color.LightCoral
+                    Case 73
+                        Label73.BackColor = Color.LightCoral
+                    Case 74
+                        Label74.BackColor = Color.LightCoral
+                    Case 75
+                        Label75.BackColor = Color.LightCoral
+                    Case 76
+                        Label76.BackColor = Color.LightCoral
+                    Case 77
+                        Label77.BackColor = Color.LightCoral
+                    Case 78
+                        Label78.BackColor = Color.LightCoral
+                    Case 79
+                        Label79.BackColor = Color.LightCoral
+                    Case 80
+                        Label80.BackColor = Color.LightCoral
+                    Case 81
+                        Label81.BackColor = Color.LightCoral
+                    Case 82
+                        Label82.BackColor = Color.LightCoral
+                    Case 83
+                        Label83.BackColor = Color.LightCoral
+                    Case 84
+                        Label84.BackColor = Color.LightCoral
+                    Case 85
+                        Label85.BackColor = Color.LightCoral
+                    Case 86
+                        Label86.BackColor = Color.LightCoral
+                    Case 87
+                        Label87.BackColor = Color.LightCoral
+                    Case 88
+                        Label88.BackColor = Color.LightCoral
+                    Case 89
+                        Label89.BackColor = Color.LightCoral
+                    Case 90
+                        Label90.BackColor = Color.LightCoral
+                End Select
+            Else
+                i = i + 1
+            End If
         Loop Until Repite = True
     End Sub
 
@@ -267,6 +638,7 @@
         If CambioColor = False Then
             Label1.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label1.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -279,6 +651,7 @@
         If CambioColor = False Then
             Label2.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label2.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -291,6 +664,7 @@
         If CambioColor = False Then
             Label3.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label3.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -303,6 +677,7 @@
         If CambioColor = False Then
             Label4.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label4.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -315,6 +690,7 @@
         If CambioColor = False Then
             Label5.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label5.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -327,6 +703,7 @@
         If CambioColor = False Then
             Label6.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label6.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -339,6 +716,7 @@
         If CambioColor = False Then
             Label7.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label7.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -351,6 +729,7 @@
         If CambioColor = False Then
             Label8.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label8.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -363,6 +742,7 @@
         If CambioColor = False Then
             Label9.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label9.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -375,6 +755,7 @@
         If CambioColor = False Then
             Label10.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label10.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -387,6 +768,7 @@
         If CambioColor = False Then
             Label11.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label11.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -399,6 +781,7 @@
         If CambioColor = False Then
             Label12.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label12.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -411,6 +794,7 @@
         If CambioColor = False Then
             Label13.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label13.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -423,6 +807,7 @@
         If CambioColor = False Then
             Label14.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label14.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -435,6 +820,7 @@
         If CambioColor = False Then
             Label15.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label15.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -447,6 +833,7 @@
         If CambioColor = False Then
             Label16.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label16.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -459,6 +846,7 @@
         If CambioColor = False Then
             Label17.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label17.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -471,6 +859,7 @@
         If CambioColor = False Then
             Label18.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label18.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -483,6 +872,7 @@
         If CambioColor = False Then
             Label19.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label19.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -495,6 +885,7 @@
         If CambioColor = False Then
             Label20.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label20.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -507,6 +898,7 @@
         If CambioColor = False Then
             Label21.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label21.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -519,6 +911,7 @@
         If CambioColor = False Then
             Label22.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label22.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -531,6 +924,7 @@
         If CambioColor = False Then
             Label23.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label23.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -543,6 +937,7 @@
         If CambioColor = False Then
             Label24.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label24.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -555,6 +950,7 @@
         If CambioColor = False Then
             Label25.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label25.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -567,6 +963,7 @@
         If CambioColor = False Then
             Label26.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label26.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -579,6 +976,7 @@
         If CambioColor = False Then
             Label27.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label27.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -591,6 +989,7 @@
         If CambioColor = False Then
             Label28.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label28.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -603,6 +1002,7 @@
         If CambioColor = False Then
             Label29.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label29.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -615,6 +1015,7 @@
         If CambioColor = False Then
             Label30.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label30.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -627,6 +1028,7 @@
         If CambioColor = False Then
             Label31.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label31.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -639,6 +1041,7 @@
         If CambioColor = False Then
             Label32.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label32.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -651,6 +1054,7 @@
         If CambioColor = False Then
             Label33.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label33.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -663,6 +1067,7 @@
         If CambioColor = False Then
             Label34.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label34.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -675,6 +1080,7 @@
         If CambioColor = False Then
             Label35.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label35.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -687,6 +1093,7 @@
         If CambioColor = False Then
             Label36.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label36.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -699,6 +1106,7 @@
         If CambioColor = False Then
             Label37.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label37.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -711,6 +1119,7 @@
         If CambioColor = False Then
             Label38.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label38.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -723,6 +1132,7 @@
         If CambioColor = False Then
             Label39.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label39.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -735,6 +1145,7 @@
         If CambioColor = False Then
             Label40.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label40.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -747,6 +1158,7 @@
         If CambioColor = False Then
             Label41.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label41.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -759,6 +1171,7 @@
         If CambioColor = False Then
             Label42.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label42.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -771,6 +1184,7 @@
         If CambioColor = False Then
             Label43.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label43.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -783,6 +1197,7 @@
         If CambioColor = False Then
             Label44.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label44.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -795,6 +1210,7 @@
         If CambioColor = False Then
             Label45.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label45.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -807,6 +1223,7 @@
         If CambioColor = False Then
             Label46.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label46.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -819,6 +1236,7 @@
         If CambioColor = False Then
             Label47.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label47.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -831,6 +1249,7 @@
         If CambioColor = False Then
             Label48.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label48.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -843,6 +1262,7 @@
         If CambioColor = False Then
             Label49.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label49.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -855,6 +1275,7 @@
         If CambioColor = False Then
             Label50.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label50.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -867,6 +1288,7 @@
         If CambioColor = False Then
             Label51.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label51.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -879,6 +1301,7 @@
         If CambioColor = False Then
             Label52.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label52.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -891,6 +1314,7 @@
         If CambioColor = False Then
             Label53.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label53.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -903,6 +1327,7 @@
         If CambioColor = False Then
             Label54.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label54.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -915,6 +1340,7 @@
         If CambioColor = False Then
             Label55.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label55.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -927,6 +1353,7 @@
         If CambioColor = False Then
             Label56.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label56.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -939,6 +1366,7 @@
         If CambioColor = False Then
             Label57.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label57.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -951,6 +1379,7 @@
         If CambioColor = False Then
             Label58.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label58.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -963,6 +1392,7 @@
         If CambioColor = False Then
             Label59.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label59.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -975,6 +1405,7 @@
         If CambioColor = False Then
             Label60.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label60.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -987,6 +1418,7 @@
         If CambioColor = False Then
             Label61.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label61.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -999,6 +1431,7 @@
         If CambioColor = False Then
             Label62.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label62.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -1011,6 +1444,7 @@
         If CambioColor = False Then
             Label63.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label63.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -1023,6 +1457,7 @@
         If CambioColor = False Then
             Label64.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label64.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -1035,6 +1470,7 @@
         If CambioColor = False Then
             Label65.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label65.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -1047,6 +1483,7 @@
         If CambioColor = False Then
             Label66.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label66.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -1059,6 +1496,7 @@
         If CambioColor = False Then
             Label67.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label67.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -1071,6 +1509,7 @@
         If CambioColor = False Then
             Label68.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label68.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -1083,6 +1522,7 @@
         If CambioColor = False Then
             Label69.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label69.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -1095,6 +1535,7 @@
         If CambioColor = False Then
             Label70.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label70.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -1107,6 +1548,7 @@
         If CambioColor = False Then
             Label71.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label71.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -1119,6 +1561,7 @@
         If CambioColor = False Then
             Label72.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label72.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -1131,6 +1574,7 @@
         If CambioColor = False Then
             Label73.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label73.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -1143,6 +1587,7 @@
         If CambioColor = False Then
             Label74.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label74.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -1155,6 +1600,7 @@
         If CambioColor = False Then
             Label75.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label75.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -1167,6 +1613,7 @@
         If CambioColor = False Then
             Label76.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label76.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -1179,6 +1626,7 @@
         If CambioColor = False Then
             Label77.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label77.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -1191,6 +1639,7 @@
         If CambioColor = False Then
             Label78.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label78.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -1203,6 +1652,7 @@
         If CambioColor = False Then
             Label79.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label79.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -1215,6 +1665,7 @@
         If CambioColor = False Then
             Label80.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label80.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -1227,6 +1678,7 @@
         If CambioColor = False Then
             Label81.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label81.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -1239,6 +1691,7 @@
         If CambioColor = False Then
             Label82.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label82.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -1251,6 +1704,7 @@
         If CambioColor = False Then
             Label83.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label83.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -1263,6 +1717,7 @@
         If CambioColor = False Then
             Label84.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label84.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -1275,6 +1730,7 @@
         If CambioColor = False Then
             Label85.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label85.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -1287,6 +1743,7 @@
         If CambioColor = False Then
             Label86.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label86.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -1299,6 +1756,7 @@
         If CambioColor = False Then
             Label87.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label87.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -1311,6 +1769,7 @@
         If CambioColor = False Then
             Label88.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label88.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -1323,6 +1782,7 @@
         If CambioColor = False Then
             Label89.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label89.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
@@ -1335,6 +1795,7 @@
         If CambioColor = False Then
             Label90.BackColor = Color.LightCoral
             números(index) = LabelNumero
+            index = index + 1
         Else
             Label90.BackColor = Color.IndianRed
             Limpieza(LabelNumero)
