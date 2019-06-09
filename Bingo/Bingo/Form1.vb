@@ -261,7 +261,7 @@
         Application.Restart()
     End Sub
 
-    Private Sub Label1_Click(sender As Object, e As EventArgs) Handles Label1.Click
+       Private Sub Label1_Click(sender As Object, e As EventArgs) Handles Label1.Click
         Dim LabelNumero As Byte
         LabelNumero = 1
         If CambioColor = False Then
@@ -310,173 +310,244 @@
     End Sub
 
     Private Sub Label5_Click(sender As Object, e As EventArgs) Handles Label5.Click
+        Dim LabelNumero As Byte
+        LabelNumero = 5
         If CambioColor = False Then
             Label5.BackColor = Color.LightCoral
+            números(index) = LabelNumero
         Else
             Label5.BackColor = Color.IndianRed
+            Limpieza(LabelNumero)
         End If
     End Sub
 
     Private Sub Label6_Click(sender As Object, e As EventArgs) Handles Label6.Click
+        Dim LabelNumero As Byte
+        LabelNumero = 6
         If CambioColor = False Then
             Label6.BackColor = Color.LightCoral
+            números(index) = LabelNumero
         Else
             Label6.BackColor = Color.IndianRed
+            Limpieza(LabelNumero)
         End If
     End Sub
 
     Private Sub Label7_Click(sender As Object, e As EventArgs) Handles Label7.Click
+        Dim LabelNumero As Byte
+        LabelNumero = 7
         If CambioColor = False Then
             Label7.BackColor = Color.LightCoral
+            números(index) = LabelNumero
         Else
             Label7.BackColor = Color.IndianRed
+            Limpieza(LabelNumero)
         End If
     End Sub
 
     Private Sub Label8_Click(sender As Object, e As EventArgs) Handles Label8.Click
+        Dim LabelNumero As Byte
+        LabelNumero = 8
         If CambioColor = False Then
             Label8.BackColor = Color.LightCoral
+            números(index) = LabelNumero
         Else
             Label8.BackColor = Color.IndianRed
+            Limpieza(LabelNumero)
         End If
     End Sub
 
     Private Sub Label9_Click(sender As Object, e As EventArgs) Handles Label9.Click
+        Dim LabelNumero As Byte
+        LabelNumero = 9
         If CambioColor = False Then
             Label9.BackColor = Color.LightCoral
+            números(index) = LabelNumero
         Else
             Label9.BackColor = Color.IndianRed
+            Limpieza(LabelNumero)
         End If
     End Sub
 
     Private Sub Label10_Click(sender As Object, e As EventArgs) Handles Label10.Click
+        Dim LabelNumero As Byte
+        LabelNumero = 10
         If CambioColor = False Then
             Label10.BackColor = Color.LightCoral
+            números(index) = LabelNumero
         Else
             Label10.BackColor = Color.IndianRed
+            Limpieza(LabelNumero)
         End If
     End Sub
 
     Private Sub Label11_Click(sender As Object, e As EventArgs) Handles Label11.Click
+        Dim LabelNumero As Byte
+        LabelNumero = 11
         If CambioColor = False Then
             Label11.BackColor = Color.LightCoral
+            números(index) = LabelNumero
         Else
             Label11.BackColor = Color.IndianRed
+            Limpieza(LabelNumero)
         End If
     End Sub
 
     Private Sub Label12_Click(sender As Object, e As EventArgs) Handles Label12.Click
+        Dim LabelNumero As Byte
+        LabelNumero = 12
         If CambioColor = False Then
             Label12.BackColor = Color.LightCoral
+            números(index) = LabelNumero
         Else
             Label12.BackColor = Color.IndianRed
+            Limpieza(LabelNumero)
         End If
     End Sub
 
     Private Sub Label13_Click(sender As Object, e As EventArgs) Handles Label13.Click
+        Dim LabelNumero As Byte
+        LabelNumero = 13
         If CambioColor = False Then
             Label13.BackColor = Color.LightCoral
+            números(index) = LabelNumero
         Else
             Label13.BackColor = Color.IndianRed
+            Limpieza(LabelNumero)
         End If
     End Sub
 
     Private Sub Label14_Click(sender As Object, e As EventArgs) Handles Label14.Click
+        Dim LabelNumero As Byte
+        LabelNumero = 14
         If CambioColor = False Then
             Label14.BackColor = Color.LightCoral
+            números(index) = LabelNumero
         Else
             Label14.BackColor = Color.IndianRed
+            Limpieza(LabelNumero)
         End If
     End Sub
 
     Private Sub Label15_Click(sender As Object, e As EventArgs) Handles Label15.Click
+        Dim LabelNumero As Byte
+        LabelNumero = 15
         If CambioColor = False Then
             Label15.BackColor = Color.LightCoral
+            números(index) = LabelNumero
         Else
             Label15.BackColor = Color.IndianRed
+            Limpieza(LabelNumero)
         End If
     End Sub
 
     Private Sub Label16_Click(sender As Object, e As EventArgs) Handles Label16.Click
+        Dim LabelNumero As Byte
+        LabelNumero = 16
         If CambioColor = False Then
             Label16.BackColor = Color.LightCoral
+            números(index) = LabelNumero
         Else
             Label16.BackColor = Color.IndianRed
+            Limpieza(LabelNumero)
         End If
     End Sub
 
     Private Sub Label17_Click(sender As Object, e As EventArgs) Handles Label17.Click
+        Dim LabelNumero As Byte
+        LabelNumero = 17
         If CambioColor = False Then
             Label17.BackColor = Color.LightCoral
+            números(index) = LabelNumero
         Else
             Label17.BackColor = Color.IndianRed
+            Limpieza(LabelNumero)
         End If
     End Sub
 
     Private Sub Label18_Click(sender As Object, e As EventArgs) Handles Label18.Click
+        Dim LabelNumero As Byte
+        LabelNumero = 18
         If CambioColor = False Then
             Label18.BackColor = Color.LightCoral
+            números(index) = LabelNumero
         Else
             Label18.BackColor = Color.IndianRed
+            Limpieza(LabelNumero)
         End If
     End Sub
 
     Private Sub Label19_Click(sender As Object, e As EventArgs) Handles Label19.Click
+        Dim LabelNumero As Byte
+        LabelNumero = 19
         If CambioColor = False Then
             Label19.BackColor = Color.LightCoral
+            números(index) = LabelNumero
         Else
             Label19.BackColor = Color.IndianRed
+            Limpieza(LabelNumero)
         End If
     End Sub
 
     Private Sub Label20_Click(sender As Object, e As EventArgs) Handles Label20.Click
+        Dim LabelNumero As Byte
+        LabelNumero = 20
         If CambioColor = False Then
             Label20.BackColor = Color.LightCoral
+            números(index) = LabelNumero
         Else
             Label20.BackColor = Color.IndianRed
+            Limpieza(LabelNumero)
         End If
     End Sub
 
     Private Sub Label21_Click(sender As Object, e As EventArgs) Handles Label21.Click
+        Dim LabelNumero As Byte
+        LabelNumero = 21
         If CambioColor = False Then
             Label21.BackColor = Color.LightCoral
+            números(index) = LabelNumero
         Else
             Label21.BackColor = Color.IndianRed
+            Limpieza(LabelNumero)
         End If
     End Sub
 
     Private Sub Label22_Click(sender As Object, e As EventArgs) Handles Label22.Click
+        Dim LabelNumero As Byte
+        LabelNumero = 22
         If CambioColor = False Then
             Label22.BackColor = Color.LightCoral
+            números(index) = LabelNumero
         Else
             Label22.BackColor = Color.IndianRed
+            Limpieza(LabelNumero)
         End If
     End Sub
 
     Private Sub Label23_Click(sender As Object, e As EventArgs) Handles Label23.Click
+        Dim LabelNumero As Byte
+        LabelNumero = 23
         If CambioColor = False Then
             Label23.BackColor = Color.LightCoral
+            números(index) = LabelNumero
         Else
             Label23.BackColor = Color.IndianRed
+            Limpieza(LabelNumero)
         End If
     End Sub
 
     Private Sub Label24_Click(sender As Object, e As EventArgs) Handles Label24.Click
+        Dim LabelNumero As Byte
+        LabelNumero = 24
         If CambioColor = False Then
             Label24.BackColor = Color.LightCoral
+            números(index) = LabelNumero
         Else
             Label24.BackColor = Color.IndianRed
+            Limpieza(LabelNumero)
         End If
     End Sub
-
-    Private Sub Label25_Click(sender As Object, e As EventArgs) Handles Label25.Click
-        If CambioColor = False Then
-            Label25.BackColor = Color.LightCoral
-        Else
-            Label25.BackColor = Color.IndianRed
-        End If
-    End Sub
-
     Private Sub Label26_Click(sender As Object, e As EventArgs) Handles Label26.Click
         If CambioColor = False Then
             Label26.BackColor = Color.LightCoral
