@@ -1016,7 +1016,7 @@
     End Sub
 
     Private Sub Btn_Reinicio_MouseHover(sender As Object, e As EventArgs) Handles Btn_Reinicio.MouseHover
-        Lbl_Ayuda.Text = "Al tocar este botón se reiniciara el programa."
+    Lbl_Ayuda.Text = "Al tocar este botón comenzará de vuelta desde el comienzo."
     End Sub
 
     Private Sub Btn_Reinicio_MouseLeave(sender As Object, e As EventArgs) Handles Btn_Reinicio.MouseLeave
